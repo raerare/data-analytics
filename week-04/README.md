@@ -88,16 +88,16 @@ In my presentation, I cover:
 
 ## Presentation Link
 
-I created a 10-minute video and a short presentation explaining my analysis. Please see link below 
+I created a 10-minute video and a short presentation explaining my analysis. Please see link below.
 
-*https://www.canva.com/design/DAHIXT_hQy8/uHnSap2GRKgNq8j5IyoZSQ/view?utm_content=DAHIXT_hQy8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2807639bbd*
+*https://drive.google.com/file/d/13-GCrPzqOs5jMnIUNolEldDGg-8EaMpw/view?usp=sharing*
 
 ---
 
 ### 2. (Bonus) Interactive Data Visualization Link
 
-Here is a link to the interacive version of my presentation. 
-https://canva.link/w7vncsv2v5iubnm
+Here is a link to the interacive version of my presentation. I created an API to mirror data visualizations from Tableau. 
+https://ildcrm.link/w7vncsv2v5iubnm
 
 ---
 
