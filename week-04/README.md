@@ -74,7 +74,7 @@ A link to the video recording is included in this repository.
 
 * `Iowa_liquor_database_capstone_questions.sql` → Full SQL script wiht notes
 * `pivot_chart.xlsx` → Excel PivotTable and chart
-* `interactive_data_visualizations.txt` → **Bonus** Interactive data insights using Tableau and Canva
+* `interactive_data_visualizations.txt` → Interactive data insights using Tableau and Canva (**Bonus**)
 * `README.md` → Project explanation
 * `presentation_video_link.txt` → Link to video recording
 
