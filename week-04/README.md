@@ -70,6 +70,14 @@ A link to the video recording is included in this repository.
 
 ---
 
+## Presentation Link
+
+I created a 10-minute video and a short presentation explaining my analysis. Please see link below 
+
+*https://www.canva.com/design/DAHIXT_hQy8/uHnSap2GRKgNq8j5IyoZSQ/view?utm_content=DAHIXT_hQy8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2807639bbd*
+
+---
+
 ## Repository Contents
 
 * `Iowa_liquor_database_capstone_questions.sql` → Full SQL script wiht notes
