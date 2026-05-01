@@ -66,7 +66,23 @@ In my presentation, I cover:
 * Top-performing vendors, products, and stores
 * Opportunities for growth in the market
 
-A link to the video recording is included in this repository.
+---
+
+## Repository Contents
+
+* `Iowa_liquor_database_capstone_questions.sql` → Full SQL script wiht notes
+* `Tequila In Iowa Data Insights by Rodas M. (1).pdf` → Presentation document
+* `Tequila Product Performance.xlsx` → Excel PivotTable and chart
+* `Tequila Sales by County` → Excel PivotTable and chart
+* `Tequila Sales by Month` → Excel PivotTable and chart
+* `Tequila Sales by Store` → Excel PivotTable and chart
+* `Tequila Vendor Performance` → Excel PivotTable and chart
+* `README.md` → Project explanation
+
+## Repository Links Below 
+
+* `presentation_video` → Link to video recording Find in README.md
+*  `interactive_data_visualizations` → Find in README.md (**Bonus**)
 
 ---
 
@@ -78,13 +94,10 @@ I created a 10-minute video and a short presentation explaining my analysis. Ple
 
 ---
 
-## Repository Contents
+### 2. (Bonus) Interactive Data Visualization Link
 
-* `Iowa_liquor_database_capstone_questions.sql` → Full SQL script wiht notes
-* `pivot_chart.xlsx` → Excel PivotTable and chart
-* `interactive_data_visualizations.txt` → Interactive data insights using Tableau and Canva (**Bonus**)
-* `README.md` → Project explanation
-* `presentation_video_link.txt` → Link to video recording
+Here is a link to the interacive version of my presentation. 
+https://canva.link/w7vncsv2v5iubnm
 
 ---
 
