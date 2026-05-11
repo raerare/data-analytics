@@ -1,0 +1,29 @@
+
+# Notes:
+# This script was completed for the Week 5 workbook.
+# I used simple variables, math formulas, loops, and if statements
+# to solve the problem step by step.
+
+department_code = 18
+
+if department_code == 1:
+    department_name = 'Marketing'
+elif department_code == 5:
+    department_name = 'Human Resources'
+elif department_code == 10:
+    department_name = 'Accounting'
+elif department_code == 12:
+    department_name = 'Legal'
+elif department_code == 18:
+    department_name = 'IT'
+elif department_code == 20:
+    department_name = 'Customer Relations'
+else:
+    department_name = '<unknown>'
+
+print(f'Department code {department_code} is {department_name}')
+
+
+# End Notes:
+# I tested this script with different values to make sure it worked.
+# I also used print statements to check my results.
