@@ -1,6 +1,4 @@
 
-# Notes:
-# This script was completed for the Week 5 workbook.
 # I used simple variables, math formulas, loops, and if statements
 # to solve the problem step by step.
 
@@ -37,7 +35,3 @@ print(f'Your guesses were: {guesses}')
 if len(guesses) < 5:
     print("You're awesome!")
 
-
-# End Notes:
-# I tested this script with different values to make sure it worked.
-# I also used print statements to check my results.

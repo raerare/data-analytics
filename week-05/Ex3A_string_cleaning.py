@@ -1,6 +1,4 @@
 
-# Notes:
-# This script was completed for the Week 5 workbook.
 # I used simple variables, math formulas, loops, and if statements
 # to solve the problem step by step.
 
@@ -29,7 +27,3 @@ salary_1_clean = int(salary_1.replace('$', '').replace(',', ''))
 print(salary_1_clean)
 print(type(salary_1_clean))
 
-
-# End Notes:
-# I tested this script with different values to make sure it worked.
-# I also used print statements to check my results.

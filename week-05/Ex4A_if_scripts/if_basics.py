@@ -1,6 +1,4 @@
 
-# Notes:
-# This script was completed for the Week 5 workbook.
 # I used simple variables, math formulas, loops, and if statements
 # to solve the problem step by step.
 
@@ -32,7 +30,3 @@ else:
 
 print(f'The final value of x is {x} and the final value of y is {y}')
 
-
-# End Notes:
-# I tested this script with different values to make sure it worked.
-# I also used print statements to check my results.

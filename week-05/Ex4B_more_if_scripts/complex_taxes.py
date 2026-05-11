@@ -1,6 +1,4 @@
 
-# Notes:
-# This script was completed for the Week 5 workbook.
 # I used simple variables, math formulas, loops, and if statements
 # to solve the problem step by step.
 
@@ -50,7 +48,3 @@ print(f'Your estimated annual gross income is ${annual_gross_income:.2f}')
 print(f'Your tax withholding for the week is ${tax_withholding:.2f}')
 print(f'Your net pay is ${net_pay:.2f}')
 
-
-# End Notes:
-# I tested this script with different values to make sure it worked.
-# I also used print statements to check my results.
